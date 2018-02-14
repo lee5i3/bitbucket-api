@@ -1,7 +1,7 @@
 /* eslint global-require: 0 import/no-extraneous-dependencies:0 */
 
-module.exports = wallaby => {
-  return {  // eslint-disable-lin
+module.exports = (wallaby) => {
+  return {
     files: [
       'index.js',
       'lib/**/*.js'
