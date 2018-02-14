@@ -1,0 +1,24 @@
+{
+  "name": "node-bitbucket",
+  "version": "0.0.1-alpha",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee5i3/node-bitbucket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lee5i3/node-bitbucket/issues"
+  },
+  "homepage": "https://github.com/lee5i3/node-bitbucket#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "lodash": "^4.17.5"
+  }
+}
