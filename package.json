@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lee5i3/node-bitbucket.git"
+    "url": "git+https://github.com/mysimplebudget/node-bitbucket.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lee5i3/node-bitbucket/issues"
+    "url": "https://github.com/mysimplebudget/node-bitbucket/issues"
   },
-  "homepage": "https://github.com/lee5i3/node-bitbucket#readme",
+  "homepage": "https://github.com/mysimplebudget/node-bitbucket#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "lodash": "^4.17.5"
