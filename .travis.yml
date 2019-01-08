@@ -1,6 +1,9 @@
 language: node_js
 node_js:
   - "node"
+addons:
+  sonarcloud:
+    organization: "lee5i3-github" # the key of the org you chose at step #3
 install:
   - npm install -g codecov
   - npm install -g istanbul
